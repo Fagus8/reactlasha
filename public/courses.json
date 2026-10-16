@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "JavaScript-ის საფუძვლები",
+    "category": "Programming",
+    "price": 150,
+    "description": "ისწავლეთ თანამედროვე JavaScript-ის ძირითადი კონცეფციები, ES6+ ფუნქციები და ასინქრონული პროგრამირება."
+  },
+  {
+    "id": "2",
+    "title": "React.js სრული კურსი",
+    "category": "Programming",
+    "price": 250,
+    "description": "კომპონენტები, Hooks, Context, Redux Toolkit და რეალური პროექტების აწყობა."
+  },
+  {
+    "id": "3",
+    "title": "UI/UX დიზაინის შესავალი",
+    "category": "Design",
+    "price": 180,
+    "description": "Figma-ში მუშაობა, პროტოტიპირება, მომხმარებლის გამოცდილების კვლევა და დიზაინ-სისტემები."
+  },
+  {
+    "id": "4",
+    "title": "Python დეველოპმენტი",
+    "category": "Programming",
+    "price": 200,
+    "description": "Python-ის საფუძვლები, მონაცემთა დამუშავება და ვებ დეველოპმენტი Django-ს გამოყენებით."
+  },
+  {
+    "id": "5",
+    "title": "ციფრული მარკეტინგი",
+    "category": "Marketing",
+    "price": 120,
+    "description": "SEO ოპტიმიზაცია, SMM, Google Ads და სოციალური მედიის სტრატეგიები."
+  }
+]
